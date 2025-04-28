@@ -42,7 +42,9 @@ Global Collaborations: Partnering with hospitals 🏥 and health campaigns 🌍 
 🧩 Installation Guide
 To set up the project locally, run the following commands:
 npm install
+
 npm run dev
+
 npm install openai lucide-react react-youtube --legacy-peer-deps
 
 If you are using TypeScript and missing types, also run:
