@@ -1,4 +1,5 @@
-🚀 TranquilMinds - Mental Health Support Platform
+#🚀TranquilMinds - We care for you , You dont have to face it alone
+
 We participated in the HackSphire 1.0 Hackathon held at Thapar University and proudly cleared 4 checkpoints along with the pitching round, earning a place among the finalist teams! 🏆
 
 Our project, TranquilMinds, is a mental wellness platform soon to be converted into a mobile application for both iOS and Android users 📱✨.
