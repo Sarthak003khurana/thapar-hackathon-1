@@ -41,6 +41,7 @@ Global Collaborations: Partnering with hospitals 🏥 and health campaigns 🌍 
 
 🧩 Installation Guide
 To set up the project locally, run the following commands:
+
 npm install
 
 npm run dev
